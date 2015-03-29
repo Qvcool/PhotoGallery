@@ -15,7 +15,7 @@ setTimeout(function() {
 			r.style.cursor = "pointer";
 			r.style.width = "35px";
 			r.style.height = "31px";
-			r.style.background = "url(larrow_wht.png)";
+			r.style.background = "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wMdDysnEkn+9wAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAjElEQVRIx9XXSQ7AIAwDQNKX83P3XKkCkti1yhkxIBaHMcgNwAQwT/oGG34MHrGcxKWCP1v5G7xbNQWvwm28A7fwLlzGGXAJZ8FpnAmncDZ8jCvgI1wFb3ElvMTVcCpY2HAKr6TWP/fcftrt99z+wtnfdnuq2fPcXsnYazh79Wqv2zsToH2XFKkn/aXeTsB6FpExL6gAAAAASUVORK5CYII=)";
 			r.style.backgroundRepeat = "no-repeat";
 			r.style.backgroundPosition = "4px 0px";
 			r.style.margin = "0px";
@@ -37,7 +37,7 @@ setTimeout(function() {
 			r.style.cursor = "pointer";
 			r.style.width = "35px";
 			r.style.height = "31px";
-			r.style.background = "url(rarrow_wht.png)";
+			r.style.background = "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wMdDzIUNpk2+QAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAlklEQVRIx92XOw7AMAhDMSfPzencLbGdWio78gsQPlUbNjNrZlaZDTvCLwfABtGnDs4IgBV0RADKi1UAqCFXAODIOQsAxskFADZkDgAoBaMCQP0uCgAczYIFsIizADZxBsAqfgrQbvGTau8vXv7vnMeqPfbPYx0u1ttjUy02z2ObTGyHi22vsb39ljA1WJy32na+b1ypDySwehZAYchdAAAAAElFTkSuQmCC)";
 			r.style.backgroundRepeat = "no-repeat";
 			r.style.backgroundPosition = "0px 0px";
 			r.style.margin = "0px";
