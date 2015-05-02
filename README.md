@@ -31,4 +31,4 @@ If you want to make images take up the entire gallery frame, which will usually 
     </div>
 
 ## License
-PhotoGallery is licensed under the [MIT License](https://github.com/Qvcool/PhotoGallery/blob/master/LICENSE).
+PhotoGallery is licensed under the [public domain](https://github.com/Qvcool/PhotoGallery/blob/master/LICENSE).
