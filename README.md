@@ -1,7 +1,7 @@
 # PhotoGallery
 PhotoGallery is a standalone JavaScript plugin that can be used to create simple photo galleries very easily.
 ## Demo
-[Demo](http://qvcool.com/photogallery/)
+[Demo](https://jsfiddle.net/zjvtydo2/embedded/result/)
 ## Installation
 To include PhotoGallery in an HTML webpage, download `photogallery.min.js` from the GitHub repository, and add this tag to your header (with the path to `photogallery.min.js`):
 
