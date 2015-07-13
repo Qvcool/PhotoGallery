@@ -1,4 +1,6 @@
 # PhotoGallery
+**Also check out [PhotoGallery2](https://github.com/Qvcool/PhotoGallery2)!**
+
 PhotoGallery is a standalone JavaScript plugin that is used to create simple photo galleries.
 ## [Demo](http://jsfiddle.net/ogu5v35y/embedded/result/)
 ## Installation
